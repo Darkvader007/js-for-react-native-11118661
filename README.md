@@ -6,3 +6,4 @@ In the second task the function uses the map method to iterate over the processe
 If the number is even it is capitalized using the toUpperCase method and iff it is odd it is converted to lowercase using toLowerCase method.
 It was tested out with a piece of code right after it.
 
+Task 3 required me to use the other functions already created and the use of JSON.
