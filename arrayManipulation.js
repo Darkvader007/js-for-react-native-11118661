@@ -21,7 +21,3 @@ function formatArrayStrings(strings,processedNumbers){
     );
 }
 
-const strings = ['Gabby','Rollas','Osborn','Icon'];
-const processedNumbers =[1,2,3,4];
-const formattedStrings = formatArrayStrings(strings,processedNumbers);
-console.log(formattedStrings);
